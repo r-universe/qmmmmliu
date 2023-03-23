@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DACF"]
+	path = DACF
+	url = https://github.com/cran/DACF
+	shallow = true
+	registered = true
 [submodule "lamme"]
 	path = lamme
 	url = https://github.com/qmmmmliu/lamme
